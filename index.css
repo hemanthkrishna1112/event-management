@@ -1,0 +1,62 @@
+body{
+    background-image: url("img.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.header{
+    background-image: url("329-3290175_wedding-event-management-logo-hd-png-download.png");
+    background-image: left;
+    text-align: right;
+    background-size: 10%;
+    background-repeat: no-repeat;
+    }
+    .footer{
+    background-size: 100%;
+    text-align: center;
+    margin-top:263px; 
+    margin-bottom: 50px;
+    
+}
+
+    .block1{
+    width:350px;
+     height:300px;
+     position:center;
+     text-align:center;
+      margin-top: 250px;
+      padding-left: 400px;
+       clear:both;
+}
+    li {
+    list-style: none;
+    margin: 2px;
+    padding: 3px;
+    background:paleturquoise;
+    
+}
+
+ul {
+    background:#117A65;
+    padding:2px;
+    border: 1px solid;
+}
+.marquee{
+    font-size: 30px;
+    color:yellow;
+}
+nav ul li{
+    display:inline-block;
+    font-size:40px;
+    background-color:orangered;
+    padding:0 20px 0 20px;
+    margin:0 20px 0 20px;
+
+}
+ul li:hover{
+    background-color: blue;
+}
+.box{
+    width:200px;
+    border:solid black 10px;
+    margin: 40px 20px 20px 20px;
+}
